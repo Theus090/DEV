@@ -2,7 +2,8 @@
 
 ###
 <div align="center"> 
-<img src="https://p4.wallpaperbetter.com/wallpaper/664/43/677/life-programmer-wallpaper-preview.jpg" height="30" alt="vscode logo" heigth="600px" width="400px"  />
+<img src="https://p4.wallpaperbetter.com/wallpaper/664/43/677/life-programmer-wallpaper-preview.jpg" height="500" alt="vscode logo"   />
+  <img width="100" />
 </div>
 ###
 
