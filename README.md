@@ -1,10 +1,7 @@
-<h2 align="left"># Hello Word My name Matheus</h2>
+<h2 align="center"># Hello Word My name Matheus</h2>
 
-###
-<div align="center"> 
-<img src="https://p4.wallpaperbetter.com/wallpaper/664/43/677/life-programmer-wallpaper-preview.jpg" height="500" alt="vscode logo"   />
-  <img width="100" />
-</div>
+
+
 ###
 
 <div align="center">
